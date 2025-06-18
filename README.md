@@ -88,10 +88,10 @@ ssh -i key_pair.pem ubuntu@<instance_ip>
 
 These screenshots are included in the `/screenshots` directory:
 
-![EC2 Console](./screenshots/ec2_console.png.png)
-![Security Group Configuration](./screenshots/security_groups_console.png.png)
-![Terraform Apply Results](./screenshots/terraform_apply_result.png.png)
-![Web Server Running](./screenshots/webserver.png.png)
+![EC2 Console](./screenshots/ec2_console.png)
+![Security Group Configuration](./screenshots/security_groups_console.png)
+![Terraform Apply Results](./screenshots/terraform_apply_result.png)
+![Web Server Running](./screenshots/webserver.png)
 
 ---
 
