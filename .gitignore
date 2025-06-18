@@ -34,4 +34,8 @@ override.tf.json
 
 # Ignore CLI configuration files
 .terraformrc
+<<<<<<< HEAD
 terraform.rc
+=======
+terraform.rc
+>>>>>>> 1138509 (Fresh Start: Initial infrastructure as code setup for AWS EC2 web server project)
