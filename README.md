@@ -105,5 +105,5 @@ terraform destroy
 
 ## 👤 Author
 
-Built by [@](https://github.com/43kae) as part of the **Cloud Portfolio Projects** series.
+Built by [@43Kae](https://github.com/43kae) as part of the **Cloud Portfolio Projects** series.
 
